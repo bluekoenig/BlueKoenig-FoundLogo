@@ -1,0 +1,59 @@
+.word-cage {
+  display: grid;
+  grid-template-columns: repeat(15, 2fr);
+  grid-template-areas: ". l a f a2 y e t t2 e2 . . . . ." ". a3 n t3 i c i2 p a4 t4 i3 o n s .";
+}
+
+.l {
+  grid-area: l;
+  margin: 0% -20% 0% -20%;
+  padding: 50px auto 50px auto;
+}
+
+.a {
+  grid-area: a;
+  margin: 0% -20% 0% -20%;
+  padding: 50px auto 50px auto;
+}
+
+.f {
+  grid-area: f;
+  margin: 0% -20% 0% -20%;
+  padding: 50px auto 50px auto;
+}
+
+.a2 {
+  grid-area: a2;
+  margin: 0% -20% 0% -20%;
+  padding: 50px auto 50px auto;
+}
+
+.y {
+  grid-area: y;
+  margin: 0% -20% 0% -20%;
+  padding: 50px auto 50px auto;
+}
+
+.e {
+  grid-area: e;
+  margin: 0% -20% 0% -20%;
+  padding: 50px auto 50px auto;
+}
+
+.t {
+  grid-area: t;
+  margin: 0% -20% 0% -20%;
+  padding: 50px auto 50px auto;
+}
+
+.t2 {
+  grid-area: t2;
+  margin: 0% -20% 0% -20%;
+  padding: 50px auto 50px auto;
+}
+
+.e2 {
+  grid-area: e2;
+  margin: 0% -20% 0% -20%;
+  padding: 50px auto 50px auto;
+}
