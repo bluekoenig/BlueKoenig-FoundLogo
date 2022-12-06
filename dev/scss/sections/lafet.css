@@ -1,5 +1,0 @@
-.word-cage {
-  display: grid;
-  grid-template-columns: 30% auto 30%;
-  grid-template-areas: ". l a f a2 y e t t2 e . . . . ." ". a3 n t3 i c i2 p a4 t4 i3 o n s .";
-}

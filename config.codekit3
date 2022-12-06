@@ -9,14 +9,6 @@
   ],
   "creatorBuild" : "34434",
   "files" : {
-    "\/.gitattributes" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/.gitattributes",
-      "oF" : 0
-    },
     "\/assets\/laf a.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -312,9 +304,9 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/index.html",
-      "oF" : 3
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/lafet.html",
+      "oF" : 0
     },
     "\/dev\/global\/footer.kit" : {
       "cB" : 0,
@@ -353,17 +345,17 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/index.html",
-      "oF" : 2
+      "oAP" : "\/dev\/index.html",
+      "oF" : 0
     },
     "\/dev\/js\/scripts.js" : {
-      "bF" : 4,
+      "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/deploy\/js\/scripts-min.js",
-      "oF" : 2,
+      "oAP" : "\/dev\/js\/scripts-min.js",
+      "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
@@ -517,18 +509,6 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/lafet.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/scss\/sections\/lafet-min.css",
-      "oF" : 0,
-      "pg" : 0
-    },
     "\/dev\/scss\/sections\/lafet.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -537,9 +517,9 @@
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/css\/styles.css",
-      "oF" : 2,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/lafet.css",
+      "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
@@ -553,8 +533,8 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/css\/styles.css",
-      "oF" : 2,
+      "oAP" : "\/dev\/scss\/styles.css",
+      "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
@@ -598,7 +578,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 669227926.75338697,
-    "displayValue" : "Final Project- Found Logo",
+    "displayValue" : "BlueKoenig-FoundLogo",
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "brackets-ucla",
     "iconImageWasSetByUser" : 0
