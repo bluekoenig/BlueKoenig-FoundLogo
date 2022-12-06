@@ -1,23 +1,17 @@
-.everything-everywhere{
-    margin-left: -200px;
-    margin-right: -200px;
-}
-
-
-
-
-#first-line-container{
-    margin: 0px -50px 0px -50px;
-}    
-
-.word-cage{
+ .word-cage{
+    scale: 100%;
         display: grid;
         grid-template-columns: repeat(15, 2fr);
         grid-template-areas:
-        ". l a f a2 y e t t2 e2 . . . . ."
-        ". a3 n t3 i c i2 p a4 t4 i3 o n s .";
+        ". . l a f a2 y e t t2 e2 . . . ."
+        ". a3 n t3 i c i2 p a4 t4 i3 o n2 s .";
 
-        margin: -50px;
+
+        .l{
+            grid-area: l;
+            margin: 0% -20% 0% -20% ;
+            padding: 50px auto 50px auto;
+        }
     }
 
            
